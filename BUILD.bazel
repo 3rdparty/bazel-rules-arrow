@@ -1,0 +1,7 @@
+#exports_files(["toolchain.cmake"])
+
+filegroup(
+    name = "toolchain_cmake",
+    srcs = ["toolchain.cmake"],
+    visibility = ["//visibility:public"]
+)
