@@ -37,7 +37,7 @@ def repos(external = True, repo_mapping = {}):
             git_repository,
             name = "com_github_3rdparty_bazel_rules_arrow",
             remote = "https://github.com/3rdparty/bazel-rules-arrow",
-            commit = "",
-            shallow_since = "",
+            commit = "432516c662b3809d792d8b63cf1154fe8c96bb89",
+            shallow_since = "1654680444 +0300",
             repo_mapping = repo_mapping,
         )

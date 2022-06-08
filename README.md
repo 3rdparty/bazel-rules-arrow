@@ -1,5 +1,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## For now we only support Linux and the support for Windows and macOS might be added in the future.
+
 # bazel-rules-arrow
 
 ## Bazel build rules for [apache/arrow](https://github.com/apache/arrow)
