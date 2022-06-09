@@ -37,4 +37,4 @@ def deps():
     arrow_deps()
 ```
 
-4. You can then use `@com_github_apache_arrow//:expected` in your target's `deps`.
+4. You can then use `@com_github_apache_arrow//:arrow` in your target's `deps`.
