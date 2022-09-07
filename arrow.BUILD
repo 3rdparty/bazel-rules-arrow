@@ -68,3 +68,10 @@ cmake(
     working_directory = "cpp",
     alwayslink = True,
 )
+
+filegroup(
+    name = "plasma-store-server",
+    srcs = [":arrow"],
+    output_group = "plasma-store-server",
+    visibility = ["//visibility:public"],
+)
